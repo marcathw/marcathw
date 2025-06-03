@@ -16,13 +16,13 @@
 ## 🛠️ Skillsets
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-bfd7ea?style=flat&logo=python&logoColor=4B8BBE)
+![R](https://img.shields.io/badge/R-d7e3fc?style=flat&logo=r&logoColor=276DC3)
+![C](https://img.shields.io/badge/C-d0f4de?style=flat&logo=c&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/HTML5-fad4d4?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-ddccf0?style=flat&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-fcf4dd?style=flat&logo=mysql&logoColor=4479A1)
+![Markdown](https://img.shields.io/badge/Markdown-ece4db?style=flat&logo=markdown&logoColor=000000)
 
 ### 📚 Libraries & Frameworks
 
