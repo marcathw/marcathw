@@ -27,6 +27,7 @@
 ### 📚 Libraries & Frameworks
 
 #### 🔹 Python  
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![numPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -41,6 +42,7 @@
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![knitr](https://img.shields.io/badge/knitr-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
