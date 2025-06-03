@@ -62,15 +62,7 @@
 
 ---
 
-### 🤝 Let's Collaborate!
-I'm open to collaborating on:
-- 🧠 Machine Learning or Deep Learning projects  
-- 📊 Data Visualization or Data-Driven Apps  
-- 💡 Creative or impactful **programming projects** in general
-
----
-
-### 📫 How to Reach Me
+### 📫 Let's Connect
 - 📧 Email: marcathw@gmail.com  
 - 💼 LinkedIn: [Marcelline Cathrine Wilison](https://www.linkedin.com/in/marcelline-cathrine-wilison-67b188247)  
 - 📸 Instagram: [@marcathw](https://instagram.com/marcathw)
