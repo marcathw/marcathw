@@ -69,7 +69,8 @@ I'm open to collaborating on:
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: marcathw@gmail.com  
+- 📧 Email: [marcathw@gmail.com](marcathw@gmail.com)  
 - 💼 LinkedIn: [Marcelline Cathrine Wilison](https://www.linkedin.com/in/marcelline-cathrine-wilison-67b188247)
+- 📸 Instagram: [@marcathw](https://instagram.com/marcathw)
 
 ---
