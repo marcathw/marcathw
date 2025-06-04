@@ -64,19 +64,22 @@
 
 ## 📊 My GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <div>
-    <h3>📦 My Repositories</h3>
-    <h1 align="center">18</h1>
-  </div>
-  
-  <div>
-    <h3>🧰 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>📦 Public Projects</h3>
+      <h1>12</h1>
+    </td>
+    <td align="center">
+      <h3>📈 Contributions</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcathw&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    </td>
+    <td align="center">
+      <h3>🧰 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
