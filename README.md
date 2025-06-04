@@ -66,7 +66,6 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <th align="center" style="border: none; padding: 0 20px;">📂 My Repositories</th>
     <th align="center" style="border: none; padding: 0 20px;">🧰 Top Languages</th>
     <th align="center" style="border: none; padding: 0 20px;">📈 Contributions</th>
   </tr>
