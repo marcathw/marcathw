@@ -67,22 +67,19 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <th align="center" style="border: none; padding: 0 20px;">📂 My Repositories</th>
-    <th align="center" style="border: none; padding: 0 20px;">📈 Contributions</th>
     <th align="center" style="border: none; padding: 0 20px;">🧰 Top Languages</th>
+    <th align="center" style="border: none; padding: 0 20px;">📈 Contributions</th>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px 20px;">
-      <span align="center" style="font-size: 3rem;">18</span>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
+        alt="Top Languages Card" />
     </td>
     <td align="center" style="border: none; padding: 10px 20px;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=marcathw&amp;hide=stars&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
         alt="Contributions Card" />
-    </td>
-    <td align="center" style="border: none; padding: 10px 20px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
-        alt="Top Languages Card" />
     </td>
   </tr>
 </table>
