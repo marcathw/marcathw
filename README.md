@@ -64,22 +64,29 @@
 
 ## 📊 My GitHub Stats
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
-      <h3>📦 Public Projects</h3>
+    <th align="center" style="border: none; padding: 0 20px;">📂 My Repositories</th>
+    <th align="center" style="border: none; padding: 0 20px;">📈 Contributions</th>
+    <th align="center" style="border: none; padding: 0 20px;">🧰 Top Languages</th>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px 20px;">
       <h1>12</h1>
     </td>
-    <td align="center">
-      <h3>📈 Contributions</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=marcathw&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    <td align="center" style="border: none; padding: 10px 20px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=marcathw&amp;hide=stars&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
+        alt="Contributions Card" />
     </td>
-    <td align="center">
-      <h3>🧰 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    <td align="center" style="border: none; padding: 10px 20px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
+        alt="Top Languages Card" />
     </td>
   </tr>
 </table>
+
 
 ---
 
