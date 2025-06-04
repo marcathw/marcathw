@@ -62,9 +62,9 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+## 📊 My GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div>
     <h3 align="center">📦 Public Projects</h3>
