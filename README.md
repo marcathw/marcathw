@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px 20px;">
-      <div align="center" style="font-size: 500px; font-weight: bold;">12</div>
+      <div align="center" style="font-size: 48px; font-weight: bold;">12</div>
     </td>
     <td align="center" style="border: none; padding: 10px 20px;">
       <img
@@ -86,7 +86,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
