@@ -62,15 +62,15 @@
 
 ---
 
+### 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&bg_color=00000000&hide_border=true)
+
+---
+
 ### 📫 Let's Connect
 - 📧 Email: marcathw@gmail.com  
 - 💼 LinkedIn: [Marcelline Cathrine Wilison](https://www.linkedin.com/in/marcelline-cathrine-wilison-67b188247)  
 - 📸 Instagram: [@marcathw](https://instagram.com/marcathw)
-
----
-
-### 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=10)
 
 ---
