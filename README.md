@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 10px 20px;">
-      <div align="center" style="font-size: 48px; font-weight: bold;">{{REPO_COUNT}}</div>
+      <span align="center" style="font-size: 3rem;">18</span>
     </td>
     <td align="center" style="border: none; padding: 10px 20px;">
       <img
