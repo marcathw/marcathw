@@ -62,38 +62,26 @@
 
 ---
 
-<h2 align="center">📊 Dashboard Metrics</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
-<h3 align="center">📦 Public Projects</h3>
-<h1 align="center">12</h1>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<h3 align="center">📈 Contributions</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
-</p>
+  <div>
+    <h3 align="center">📦 Public Projects</h3>
+    <h1 align="center">18</h1>
+  </div>
 
-<h3 align="center">🧰 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
-</p>
+  <div>
+    <h3 align="center">📈 Contributions</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=marcathw&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  </div>
 
-<h3 align="center">🏆 GitHub Trophies (Optional)</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-bg=true&no-frame=true" />
-</p>
+  <div>
+    <h3 align="center">🧰 Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  </div>
 
-### 📊 My GitHub Stats
-
-## 📊 Dashboard Metrics
-
-| Metric                        | Value                                                                 |
-|------------------------------|------------------------------------------------------------------------|
-| 🧰 Top Languages             | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true) |
-| 📦 Public Projects           | ![Repos](https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square&logo=github) |
-| 🔧 Most Used Language        | ![Language](https://img.shields.io/badge/Python-Primary-blue?style=flat-square&logo=python) |
-| 📈 Contributions (Last Year) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcathw&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true) |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&bg_color=00000000&hide_border=true)
+</div>
 
 ---
 
