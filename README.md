@@ -68,10 +68,10 @@
 
 | Metric                        | Value                                                                 |
 |------------------------------|------------------------------------------------------------------------|
-| 🧰 Top Languages             | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true) |
+| 🧰 Top Languages             | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true) |
 | 📦 Public Projects           | ![Repos](https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square&logo=github) |
 | 🔧 Most Used Language        | ![Language](https://img.shields.io/badge/Python-Primary-blue?style=flat-square&logo=python) |
-| 📈 Contributions (Last Year) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true) |
+| 📈 Contributions (Last Year) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcathw&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=8&bg_color=00000000&hide_border=true)
 
