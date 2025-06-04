@@ -62,6 +62,26 @@
 
 ---
 
+<h2 align="center">📊 Dashboard Metrics</h2>
+
+<h3 align="center">📦 Public Projects</h3>
+<h1 align="center">12</h1>
+
+<h3 align="center">📈 Contributions</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+</p>
+
+<h3 align="center">🧰 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
+</p>
+
+<h3 align="center">🏆 GitHub Trophies (Optional)</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-bg=true&no-frame=true" />
+</p>
+
 ### 📊 My GitHub Stats
 
 ## 📊 Dashboard Metrics
