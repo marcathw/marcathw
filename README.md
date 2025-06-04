@@ -68,3 +68,7 @@
 - 📸 Instagram: [@marcathw](https://instagram.com/marcathw)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&layout=compact&langs_count=10)
+
+---
