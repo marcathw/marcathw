@@ -72,12 +72,12 @@
   <tr>
     <td align="center" style="border: none; padding: 10px 20px;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcathw&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true&hide_title=true"
         alt="Top Languages Card" />
     </td>
     <td align="center" style="border: none; padding: 10px 20px;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=marcathw&amp;hide=stars&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=marcathw&amp;hide=stars&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true&hide_title=true"
         alt="Contributions Card" />
     </td>
   </tr>
