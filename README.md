@@ -12,6 +12,15 @@
 - 🎞️ In my free time, I love **watching movies** and **listening to music** — a perfect combo for inspiration!
 
 ---
+### 🧠 Expertise  
+![Data Mining](https://img.shields.io/badge/Data_Mining-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-3F4F75?style=for-the-badge&logo=tableau&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ## 🛠️ Skillsets
 
